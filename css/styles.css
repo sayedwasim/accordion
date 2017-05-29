@@ -39,7 +39,7 @@ input[type="checkbox"]{-webkit-appearance:checkbox;}
 	-webkit-transform:rotate(-180deg);
 	transform:rotate(-180deg);	
 }
-.accordion .desc{padding:0 24px 30px;display:none;font-family:'Bliss2-Light', Arial, sans-serif;color:#666;}
+.accordion .desc{padding:0 24px 30px;display:none;font-family:Arial, sans-serif;color:#666;}
 .accordion .desc p{margin:0;padding-top:30px;}
 .accordion .desc p:first-child{padding-top:0;}
 .accordion .desc a{color:#253e85;}
